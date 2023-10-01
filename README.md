@@ -4,6 +4,7 @@ our website is tailored to meet the needs of airline professionals and aviation 
 Impact Airlines Management Hub has you covered.
 
 Features and Services:
+
 Flight Management: Streamline your flight operations with our powerful flight management system. Schedule, monitor, and optimize your flights for peak performance and cost-efficiency.
 
 Crew Management: Ensure your crew is well-prepared and organized for every flight. Our crew management tools simplify crew scheduling, certification tracking, and roster management.
